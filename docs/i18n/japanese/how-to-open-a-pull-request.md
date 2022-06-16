@@ -76,7 +76,7 @@
 
 モデレーターが内容を見て、フィードバックします。 仲間のモデレーターの時間を尊重し、しばらくお待ちください。 すべてのプルリクエストは、いずれレビューされます。
 
-[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [Contributors チャットルーム](https://chat.freecodecamp.org/channel/contributors) へいつでもお気軽にお問合せください。
+And as always, feel free to ask questions on the ['Contributors' category on our forum](https://forum.freecodecamp.org/c/contributors) or [the contributors chat room](https://discord.gg/PRyKn3Vbay).
 
 > [!TIP] 他のプルリクエストも提供する場合は、フォークの削除を避けるため、[変更と同期](how-to-setup-freecodecamp-locally.md#ローカルで変更を行う) のガイドラインをご覧になることを推奨します。
 

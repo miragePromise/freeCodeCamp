@@ -92,7 +92,7 @@ YouTube チャンネル用の動画講座を作成するには、[YouTube チャ
 **以下に、お気軽にお問い合わせください。**
 
 - [コミュニティフォーラム](https://forum.freecodecamp.org/c/contributors) の `Contributors` カテゴリ
-- [チャットサーバー](https://chat.freecodecamp.org/channel/contributors) の `#Contributors`チャンネル
+- The `#Contributors` channel on [our chat server](https://discord.gg/PRyKn3Vbay).
 
 取り組みたいトピックに貢献するお手伝いをさせていただけることを嬉しく思います。 関連する問題のスレッドについて質問をいただいた場合は、喜んで明確にします。 新しい質問を投稿する前に、必ずその質問を検索してください。
 

@@ -197,7 +197,7 @@
 
 開発者チームは、リリース変更時に、`prod-staging` ブランチから `prod-current` への変更をマージします。 トップコミットは、サイト上で表示されるもののはずです。
 
-状況セクションにあるデプロイログおよびビルドにアクセスして、デプロイされた正確なバージョンを確認できます。 あるいは、[contributors チャットルーム](https://chat.freecodecamp.org/channel/contributors) で確認することもできます。
+状況セクションにあるデプロイログおよびビルドにアクセスして、デプロイされた正確なバージョンを確認できます。 Alternatively you can also ping us in the [contributors chat room](https://discord.gg/PRyKn3Vbay) for a confirmation.
 
 ### 既知の制限
 

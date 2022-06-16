@@ -151,7 +151,7 @@ freeCodeCamp のローカルコピーができたので、これらの指示に�
 
 問題が発生した場合は、まず Web 検索を実行し、既に解決済みであるかどうかを確認します。 解決策が見つからない場合、[GitHub Issue](https://github.com/freeCodeCamp/freeCodeCamp/issues) ページを検索し、まだ報告されていない Issue を報告してください。
 
-そして、[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [チャットサーバー](https://chat.freecodecamp.org/home) へいつでもお気軽にお問い合わせください。
+And as always, feel free to ask questions on the ['Contributors' category on our forum](https://forum.freecodecamp.org/c/contributors) or [our chat server](https://discord.gg/PRyKn3Vbay).
 
 > [!TIP] ファイルを編集するだけの場合は、freeCodeCamp のローカルでの実行をスキップしてもかまいません。 例えば、`rebase` の実行や、`merge` の競合の解決を行う場合です。
 > 
@@ -572,6 +572,6 @@ TCP    0.0.0.0:3000           DESKTOP      LISTENING
 
 ## ヘルプ
 
-問題がありサポートが必要な場合は、[フォーラムの 'Contributors' カテゴリ](https://forum.freecodecamp.org/c/contributors) または [contributors チャットルーム](https://chat.freecodecamp.org/channel/contributors)でお気軽にお尋ねください。
+If you are stuck and need help, feel free to ask questions on the ['Contributors' category on our forum](https://forum.freecodecamp.org/c/contributors) or [the contributors chat room](https://discord.gg/PRyKn3Vbay).
 
 ブラウザのコンソールやBash / ターミナル / コマンドラインで、問題を特定するのに役立つエラーが表示されている可能性があります。 問題の説明にこのエラーメッセージを提供することで、他の人がより簡単に問題を特定し、解決策を見つけることができます。
